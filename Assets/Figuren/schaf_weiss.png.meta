@@ -1,0 +1,3656 @@
+fileFormatVersion: 2
+guid: f268bf27250544f26b5200bad20598c1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IDLE0
+    21300002: IDLE1
+    21300004: IDLE2
+    21300006: IDLE3
+    21300008: IDLE4
+    21300010: IDLE5
+    21300012: IDLE6
+    21300014: IDLE7
+    21300016: IDLE8
+    21300018: IDLE9
+    21300020: IDLE10
+    21300022: IDLE11
+    21300024: IDLE12
+    21300026: IDLE13
+    21300028: IDLE14
+    21300030: IDLE15
+    21300032: IDLE16
+    21300034: IDLE17
+    21300036: IDLE18
+    21300038: IDLE19
+    21300040: IDLE20
+    21300042: RE21
+    21300044: RE22
+    21300046: RE23
+    21300048: RE24
+    21300050: RE25
+    21300052: RE26
+    21300054: RE27
+    21300056: RE28
+    21300058: RE29
+    21300060: RE30
+    21300062: RE31
+    21300064: RE32
+    21300066: RE33
+    21300068: RE34
+    21300070: RE35
+    21300072: RE36
+    21300074: RE37
+    21300076: RE38
+    21300078: RE39
+    21300080: RE40
+    21300082: RE41
+    21300084: RE42
+    21300086: RE43
+    21300088: RE44
+    21300090: RE45
+    21300092: v46
+    21300094: v47
+    21300096: v48
+    21300098: RE49
+    21300100: RE50
+    21300102: RE51
+    21300104: RE52
+    21300106: RE53
+    21300108: RE54
+    21300110: RE55
+    21300112: RE56
+    21300114: RE57
+    21300116: RE58
+    21300118: RE59
+    21300120: RE60
+    21300122: RE61
+    21300124: RE62
+    21300126: RE63
+    21300128: RE64
+    21300130: RE65
+    21300132: RE_BL66
+    21300134: RE_BL67
+    21300136: schaf_weiss_68
+    21300138: schaf_weiss_69
+    21300140: schaf_weiss_70
+    21300142: schaf_weiss_71
+    21300144: schaf_weiss_72
+    21300146: schaf_weiss_73
+    21300148: RE_BL74
+    21300150: RE_BL75
+    21300152: RE_BL76
+    21300154: RE_BL77
+    21300156: RE_BL78
+    21300158: RE_BL79
+    21300160: RE_BL80
+    21300162: RE_BL81
+    21300164: RE_BL82
+    21300166: RE_BL83
+    21300168: RE_BL84
+    21300170: RE_BL85
+    21300172: RE_BL86
+    21300174: RE_BL87
+    21300176: RE_BL88
+    21300178: RE_BL89
+    21300180: RE_BL90
+    21300182: RE_BL91
+    21300184: RE_BL92
+    21300186: RE_BL93
+    21300188: RE_BL94
+    21300190: RE_BL95
+    21300192: RE_BL96
+    21300194: RE_BL97
+    21300196: RE_BL98
+    21300198: RE_BL99
+    21300200: RE_BL100
+    21300202: RE_BL101
+    21300204: RE_BL102
+    21300206: RE_BL103
+    21300208: RE_BL104
+    21300210: RE_BL105
+    21300212: v106
+    21300214: RE_BL107
+    21300216: RE_BL108
+    21300218: RE_BL109
+    21300220: RE_BL110
+    21300222: RE_BL111
+    21300224: RE_BL112
+    21300226: RE_BL113
+    21300228: RE_BL114
+    21300230: RE_BL115
+    21300232: RE_BL116
+    21300234: RE_BL117
+    21300236: RE_BL118
+    21300238: RE_BL119
+    21300240: RE_BL120
+    21300242: RE_BL121
+    21300244: RE_BL122
+    21300246: RE_BL123
+    21300248: RE_BL124
+    21300250: IDLE_LE125
+    21300252: IDLE_LE126
+    21300254: IDLE_LE127
+    21300256: IDLE_LE128
+    21300258: IDLE_LE129
+    21300260: IDLE_LE30
+    21300262: IDLE_LE131
+    21300264: IDLE_LE132
+    21300266: v133
+    21300268: IDLE_LE134
+    21300270: IDLE_LE135
+    21300272: IDLE_LE136
+    21300274: IDLE_LE137
+    21300276: IDLE_LE138
+    21300278: IDLE_LE139
+    21300280: IDLE_LE140
+    21300282: IDLE_LE_141
+    21300284: IDLE_LE142
+    21300286: IDLE_LE143
+    21300288: IDLE_LE144
+    21300290: IDLE_LE145
+    21300292: LE146
+    21300294: LE147
+    21300296: LE148
+    21300298: LE149
+    21300300: LE150
+    21300302: LE151
+    21300304: LE152
+    21300306: LE153
+    21300308: LE154
+    21300310: LE155
+    21300312: LE156
+    21300314: LE157
+    21300316: LE158
+    21300318: LE159
+    21300320: LE160
+    21300322: LE161
+    21300324: LE162
+    21300326: LE163
+    21300328: LE164
+    21300330: LE165
+    21300332: LE166
+    21300334: LE167
+    21300336: LE168
+    21300338: LE169
+    21300340: LE170
+    21300342: LE171
+    21300344: LE172
+    21300346: LE_BL173
+    21300348: LE_BL174
+    21300350: LE_BL175
+    21300352: schaf_weiss_176
+    21300354: schaf_weiss_177
+    21300356: schaf_weiss_178
+    21300358: schaf_weiss_179
+    21300360: schaf_weiss_180
+    21300362: schaf_weiss_181
+    21300364: schaf_weiss_182
+    21300366: schaf_weiss_183
+    21300368: LE_BL184
+    21300370: LE_BL185
+    21300372: LE_BL186
+    21300374: LE_BL187
+    21300376: LE_BL188
+    21300378: LE_BL189
+    21300380: LE_BL190
+    21300382: LE_BL191
+    21300384: LE_BL_192
+    21300386: LE_BL193
+    21300388: LE_BL194
+    21300390: LE_BL195
+    21300392: LE_BL196
+    21300394: LE_BL197
+    21300396: LE_BL198
+    21300398: LE_BL199
+    21300400: LE_BL200
+    21300402: LE_BL201
+    21300404: LE_BL202
+    21300406: LE_BL203
+    21300408: LE_BL204
+    21300410: LE_BL205
+    21300412: LE_BL206
+    21300414: LE_BL207
+    21300416: LE_BL08
+    21300418: LE_BL209
+    21300420: LE_BL210
+    21300422: LE_BL211
+    21300424: LE_BL212
+    21300426: LE_BL213
+    21300428: LE_BL214
+    21300430: LE_BL215
+    21300432: LE_BL216
+    21300434: LE_BL217
+    21300436: LE_BL218
+    21300438: LE_BL219
+    21300440: LE_BL220
+    21300442: LE_BL221
+    21300444: LE_BL222
+    21300446: LE_BL223
+    21300448: LE_BL224
+    21300450: LE_BL225
+    21300452: LE_BL226
+    21300454: LE_BL227
+    21300456: LE_BL228
+    21300458: LE_BL229
+    21300460: LE_BL230
+    21300462: LE_BL231
+    21300464: LE_BL232
+    21300466: LE_BL233
+    21300468: LE_BL234
+    21300470: schaf_weiss_235
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE9
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE10
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE11
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE12
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE13
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE14
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE15
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE16
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1953
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE25
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE26
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE27
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE28
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE29
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE30
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1857
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE31
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE32
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE33
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1856
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1759
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1759
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE40
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE41
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE42
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE43
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE44
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE45
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v46
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v47
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v48
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE49
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE50
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1759
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1662
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1662
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1662
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE54
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1661
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE55
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1662
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE56
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1662
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE57
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1673
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE58
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1673
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE59
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1671
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE60
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1661
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE61
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1662
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE62
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1662
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE63
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1673
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE64
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1673
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE65
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1671
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL66
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1662
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL67
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1662
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_68
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_69
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_70
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_71
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_72
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_73
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1662
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL75
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL78
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL80
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL81
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL82
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL83
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL84
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1565
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL85
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL86
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL87
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL88
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL89
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL90
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1565
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1471
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL94
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL96
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL97
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1468
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL98
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1468
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL99
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1468
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL100
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1468
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL101
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1468
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL102
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL103
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL104
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL105
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v106
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL107
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1468
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL110
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL111
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL112
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL113
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL114
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL115
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL116
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL117
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL118
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL119
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL120
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1371
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL121
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1371
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL122
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1371
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL123
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1371
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RE_BL124
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1371
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE126
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE127
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE128
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE129
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE132
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: v133
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE134
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE135
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE136
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE137
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE138
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE139
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE140
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE_141
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1274
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE143
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE144
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IDLE_LE145
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE146
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE147
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE148
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE149
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE150
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE151
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE152
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE153
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE154
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE155
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE156
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE157
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE158
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1177
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE159
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE160
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE161
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE162
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE163
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1082
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE164
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1092
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE165
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1092
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE166
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1090
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE167
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE168
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1080
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE169
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1081
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE170
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1092
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE171
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1092
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE172
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1090
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL173
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1080
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL174
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1080
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL175
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1080
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_176
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_177
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_178
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_179
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_180
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_181
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_182
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_183
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1080
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL184
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL185
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL186
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL187
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL188
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL189
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL190
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL191
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL_192
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL193
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 983
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL194
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL195
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL196
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL197
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL198
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL199
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL200
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 983
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL201
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL202
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL203
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL204
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL205
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL206
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 886
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL207
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 886
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL08
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 886
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL209
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 886
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL210
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 886
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL211
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL212
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL213
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL214
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL215
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL216
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL217
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 886
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL218
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL219
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL220
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL221
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL222
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL223
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL224
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL225
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL226
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL227
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL228
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL229
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 789
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL230
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 789
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL231
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 789
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL232
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 789
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL233
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 789
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LE_BL234
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 789
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_weiss_235
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1077
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

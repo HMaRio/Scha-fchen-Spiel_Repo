@@ -8,11 +8,12 @@ public class ShController : MonoBehaviour {
 	public float speed; 
 
 	//private Rigidbody2D rb2d;  
+	private Animator animbl;
 
 	// Use this for initialization
 	void Start () {
 
-		//anim = GetComponent<Animator> ();
+		animbl = GetComponent<Animator> ();
 		//rb2d = GetComponent<Rigidbody2D> ();
 	}
 	
@@ -39,35 +40,49 @@ public class ShController : MonoBehaviour {
 
 	}
 	public void MoveRight() {
-			transform.Translate (Vector2.right * 1f * Time.deltaTime);
+		transform.Translate (Vector2.right * speed * Time.deltaTime);
 				//transform.eulerAngles = new Vector2 (0, 0);
+		animbl.SetBool("isrunning", true);
+		animbl.Play("Walk-re-bl");
 	}
 
 	public void MoveLeft() {
 
-			transform.Translate (-Vector2.right * 1f * Time.deltaTime);
+		transform.Translate (-Vector2.right * speed * Time.deltaTime);
 				//transform.eulerAngles = new Vector2 (0, 0);
+		animbl.SetBool("isrunning", true);
+		animbl.Play("Walk-le-bl");
 	}
 
 	public void MoveUp() {
 
-			transform.Translate (Vector2.up * 1f * Time.deltaTime);
+		transform.Translate (Vector2.up * speed * Time.deltaTime);
 	}
 
 	public void MoveDown() {
 		
-			transform.Translate (Vector2.down * 1f * Time.deltaTime);
+			transform.Translate (Vector2.down * speed * Time.deltaTime);
 				
 	}
 	void DetectInput() {
 		float x = Input.GetAxisRaw("Horizontal");
 
 
-		if (x > 0) {
-			MoveRight();
+		//if (x > 0) {
+
+		if (Input.GetKey(KeyCode.RightArrow)){
+			MoveRight ();
+		}else{
+			animbl.SetBool("isrunning", false);
+			//animbl.Play ("schaf-schwarz");
 		}
-		else if (x < 0) {
+		//if (x < 0) {
+		if (Input.GetKey(KeyCode.LeftArrow)){
 			MoveLeft ();
+		}else{
+			animbl.SetBool("isrunning", false);
+			//animbl.Play ("schaf-schwarz-le");
+		
 		}
 
 		float y = Input.GetAxisRaw ("Vertical");
@@ -78,5 +93,7 @@ public class ShController : MonoBehaviour {
 		else if(y < 0) {
 			MoveDown();
 		}
+		
+
 	}
 }

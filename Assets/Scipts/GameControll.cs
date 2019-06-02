@@ -64,10 +64,12 @@ public class GameControll : MonoBehaviour {
 
 			sheep_white.name = "Schaf_Weiß" + i;
 
+	
 			sheep_white.transform.position = new Vector3 (pos.x, pos.y, 2.12f);
 			//Vector2 sheepposition = pos.transform.position;
 
 			//print (vste + " : " + pos);
+			print(hide.Count);
 
 		}
 

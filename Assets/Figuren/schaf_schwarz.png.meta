@@ -1,7 +1,338 @@
 fileFormatVersion: 2
 guid: 3b0c4b25a92f840658f50f01d187e9fa
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: schaf_schwarz_0
+    21300002: schaf_schwarz_1
+    21300004: schaf_schwarz_2
+    21300006: schaf_schwarz_3
+    21300008: schaf_schwarz_4
+    21300010: schaf_schwarz_5
+    21300012: schaf_schwarz_6
+    21300014: schaf_schwarz_7
+    21300016: schaf_schwarz_8
+    21300018: schaf_schwarz_9
+    21300020: schaf_schwarz_10
+    21300022: schaf_schwarz_11
+    21300024: schaf_schwarz_12
+    21300026: schaf_schwarz_13
+    21300028: schaf_schwarz_14
+    21300030: schaf_schwarz_15
+    21300032: schaf_schwarz_16
+    21300034: schaf_schwarz_17
+    21300036: schaf_schwarz_18
+    21300038: schaf_schwarz_19
+    21300040: schaf_schwarz_20
+    21300042: schaf_schwarz_21
+    21300044: schaf_schwarz_22
+    21300046: schaf_schwarz_23
+    21300048: schaf_schwarz_24
+    21300050: schaf_schwarz_25
+    21300052: schaf_schwarz_26
+    21300054: schaf_schwarz_27
+    21300056: schaf_schwarz_28
+    21300058: schaf_schwarz_29
+    21300060: schaf_schwarz_30
+    21300062: schaf_schwarz_31
+    21300064: schaf_schwarz_32
+    21300066: schaf_schwarz_33
+    21300068: schaf_schwarz_34
+    21300070: schaf_schwarz_35
+    21300072: schaf_schwarz_36
+    21300074: schaf_schwarz_37
+    21300076: schaf_schwarz_38
+    21300078: schaf_schwarz_39
+    21300080: schaf_schwarz_40
+    21300082: schaf_schwarz_41
+    21300084: schaf_schwarz_42
+    21300086: schaf_schwarz_43
+    21300088: schaf_schwarz_44
+    21300090: schaf_schwarz_45
+    21300092: schaf_schwarz_46
+    21300094: schaf_schwarz_47
+    21300096: schaf_schwarz_48
+    21300098: schaf_schwarz_49
+    21300100: schaf_schwarz_50
+    21300102: schaf_schwarz_51
+    21300104: schaf_schwarz_52
+    21300106: schaf_schwarz_53
+    21300108: schaf_schwarz_54
+    21300110: schaf_schwarz_55
+    21300112: schaf_schwarz_56
+    21300114: schaf_schwarz_57
+    21300116: schaf_schwarz_58
+    21300118: schaf_schwarz_59
+    21300120: schaf_schwarz_60
+    21300122: schaf_schwarz_61
+    21300124: schaf_schwarz_62
+    21300126: schaf_schwarz_63
+    21300128: schaf_schwarz_64
+    21300130: schaf_schwarz_65
+    21300132: schaf_schwarz_66
+    21300134: schaf_schwarz_67
+    21300136: schaf_schwarz_68
+    21300138: schaf_schwarz_69
+    21300140: schaf_schwarz_70
+    21300142: schaf_schwarz_71
+    21300144: schaf_schwarz_72
+    21300146: schaf_schwarz_73
+    21300148: schaf_schwarz_74
+    21300150: schaf_schwarz_75
+    21300152: schaf_schwarz_76
+    21300154: schaf_schwarz_77
+    21300156: schaf_schwarz_78
+    21300158: schaf_schwarz_79
+    21300160: schaf_schwarz_80
+    21300162: schaf_schwarz_81
+    21300164: schaf_schwarz_82
+    21300166: schaf_schwarz_83
+    21300168: schaf_schwarz_84
+    21300170: schaf_schwarz_85
+    21300172: schaf_schwarz_86
+    21300174: schaf_schwarz_87
+    21300176: schaf_schwarz_88
+    21300178: schaf_schwarz_89
+    21300180: schaf_schwarz_90
+    21300182: schaf_schwarz_91
+    21300184: schaf_schwarz_92
+    21300186: schaf_schwarz_93
+    21300188: schaf_schwarz_94
+    21300190: schaf_schwarz_95
+    21300192: schaf_schwarz_96
+    21300194: schaf_schwarz_97
+    21300196: schaf_schwarz_98
+    21300198: schaf_schwarz_99
+    21300200: schaf_schwarz_100
+    21300202: schaf_schwarz_101
+    21300204: schaf_schwarz_102
+    21300206: schaf_schwarz_103
+    21300208: schaf_schwarz_104
+    21300210: schaf_schwarz_105
+    21300212: schaf_schwarz_106
+    21300214: schaf_schwarz_107
+    21300216: schaf_schwarz_108
+    21300218: schaf_schwarz_109
+    21300220: schaf_schwarz_110
+    21300222: schaf_schwarz_111
+    21300224: schaf_schwarz_112
+    21300226: schaf_schwarz_113
+    21300228: schaf_schwarz_114
+    21300230: schaf_schwarz_115
+    21300232: schaf_schwarz_116
+    21300234: schaf_schwarz_117
+    21300236: schaf_schwarz_118
+    21300238: schaf_schwarz_119
+    21300240: schaf_schwarz_120
+    21300242: schaf_schwarz_121
+    21300244: schaf_schwarz_122
+    21300246: schaf_schwarz_123
+    21300248: schaf_schwarz_124
+    21300250: schaf_schwarz_125
+    21300252: schaf_schwarz_126
+    21300254: schaf_schwarz_127
+    21300256: schaf_schwarz_128
+    21300258: schaf_schwarz_129
+    21300260: schaf_schwarz_130
+    21300262: schaf_schwarz_131
+    21300264: schaf_schwarz_132
+    21300266: schaf_schwarz_133
+    21300268: schaf_schwarz_134
+    21300270: schaf_schwarz_135
+    21300272: schaf_schwarz_136
+    21300274: schaf_schwarz_137
+    21300276: schaf_schwarz_138
+    21300278: schaf_schwarz_139
+    21300280: schaf_schwarz_140
+    21300282: schaf_schwarz_141
+    21300284: schaf_schwarz_142
+    21300286: schaf_schwarz_143
+    21300288: schaf_schwarz_144
+    21300290: schaf_schwarz_145
+    21300292: schaf_schwarz_146
+    21300294: schaf_schwarz_147
+    21300296: schaf_schwarz_148
+    21300298: schaf_schwarz_149
+    21300300: schaf_schwarz_150
+    21300302: schaf_schwarz_151
+    21300304: schaf_schwarz_152
+    21300306: schaf_schwarz_153
+    21300308: schaf_schwarz_154
+    21300310: schaf_schwarz_155
+    21300312: schaf_schwarz_156
+    21300314: schaf_schwarz_157
+    21300316: schaf_schwarz_158
+    21300318: schaf_schwarz_159
+    21300320: schaf_schwarz_160
+    21300322: schaf_schwarz_161
+    21300324: schaf_schwarz_162
+    21300326: schaf_schwarz_163
+    21300328: schaf_schwarz_164
+    21300330: schaf_schwarz_165
+    21300332: schaf_schwarz_166
+    21300334: schaf_schwarz_167
+    21300336: schaf_schwarz_168
+    21300338: schaf_schwarz_169
+    21300340: schaf_schwarz_170
+    21300342: schaf_schwarz_171
+    21300344: schaf_schwarz_172
+    21300346: schaf_schwarz_173
+    21300348: schaf_schwarz_174
+    21300350: schaf_schwarz_175
+    21300352: schaf_schwarz_176
+    21300354: schaf_schwarz_177
+    21300356: schaf_schwarz_178
+    21300358: schaf_schwarz_179
+    21300360: schaf_schwarz_180
+    21300362: schaf_schwarz_181
+    21300364: schaf_schwarz_182
+    21300366: schaf_schwarz_183
+    21300368: schaf_schwarz_184
+    21300370: schaf_schwarz_185
+    21300372: schaf_schwarz_186
+    21300374: schaf_schwarz_187
+    21300376: schaf_schwarz_188
+    21300378: schaf_schwarz_189
+    21300380: schaf_schwarz_190
+    21300382: schaf_schwarz_191
+    21300384: schaf_schwarz_192
+    21300386: schaf_schwarz_193
+    21300388: schaf_schwarz_194
+    21300390: schaf_schwarz_195
+    21300392: schaf_schwarz_196
+    21300394: schaf_schwarz_197
+    21300396: schaf_schwarz_198
+    21300398: schaf_schwarz_199
+    21300400: schaf_schwarz_200
+    21300402: schaf_schwarz_201
+    21300404: schaf_schwarz_202
+    21300406: schaf_schwarz_203
+    21300408: schaf_schwarz_204
+    21300410: schaf_schwarz_205
+    21300412: schaf_schwarz_206
+    21300414: schaf_schwarz_207
+    21300416: schaf_schwarz_208
+    21300418: schaf_schwarz_209
+    21300420: schaf_schwarz_210
+    21300422: schaf_schwarz_211
+    21300424: schaf_schwarz_212
+    21300426: schaf_schwarz_213
+    21300428: schaf_schwarz_214
+    21300430: schaf_schwarz_215
+    21300432: schaf_schwarz_216
+    21300434: schaf_schwarz_217
+    21300436: schaf_schwarz_218
+    21300438: schaf_schwarz_219
+    21300440: schaf_schwarz_220
+    21300442: schaf_schwarz_221
+    21300444: schaf_schwarz_222
+    21300446: schaf_schwarz_223
+    21300448: schaf_schwarz_224
+    21300450: schaf_schwarz_225
+    21300452: schaf_schwarz_226
+    21300454: schaf_schwarz_227
+    21300456: schaf_schwarz_228
+    21300458: schaf_schwarz_229
+    21300460: schaf_schwarz_230
+    21300462: schaf_schwarz_231
+    21300464: schaf_schwarz_232
+    21300466: schaf_schwarz_233
+    21300468: schaf_schwarz_234
+    21300470: schaf_schwarz_235
+    21300472: schaf_schwarz_236
+    21300474: schaf_schwarz_237
+    21300476: schaf_schwarz_238
+    21300478: schaf_schwarz_239
+    21300480: schaf_schwarz_240
+    21300482: schaf_schwarz_241
+    21300484: schaf_schwarz_242
+    21300486: schaf_schwarz_243
+    21300488: schaf_schwarz_244
+    21300490: schaf_schwarz_245
+    21300492: schaf_schwarz_246
+    21300494: schaf_schwarz_247
+    21300496: schaf_schwarz_248
+    21300498: schaf_schwarz_249
+    21300500: schaf_schwarz_250
+    21300502: schaf_schwarz_251
+    21300504: schaf_schwarz_252
+    21300506: schaf_schwarz_253
+    21300508: schaf_schwarz_254
+    21300510: schaf_schwarz_255
+    21300512: schaf_schwarz_256
+    21300514: schaf_schwarz_257
+    21300516: schaf_schwarz_258
+    21300518: schaf_schwarz_259
+    21300520: schaf_schwarz_260
+    21300522: schaf_schwarz_261
+    21300524: schaf_schwarz_262
+    21300526: schaf_schwarz_263
+    21300528: schaf_schwarz_264
+    21300530: schaf_schwarz_265
+    21300532: schaf_schwarz_266
+    21300534: schaf_schwarz_267
+    21300536: schaf_schwarz_268
+    21300538: schaf_schwarz_269
+    21300540: schaf_schwarz_270
+    21300542: schaf_schwarz_271
+    21300544: schaf_schwarz_272
+    21300546: schaf_schwarz_273
+    21300548: schaf_schwarz_274
+    21300550: schaf_schwarz_275
+    21300552: schaf_schwarz_276
+    21300554: schaf_schwarz_277
+    21300556: schaf_schwarz_278
+    21300558: schaf_schwarz_279
+    21300560: schaf_schwarz_280
+    21300562: schaf_schwarz_281
+    21300564: schaf_schwarz_282
+    21300566: schaf_schwarz_283
+    21300568: schaf_schwarz_284
+    21300570: schaf_schwarz_285
+    21300572: schaf_schwarz_286
+    21300574: schaf_schwarz_287
+    21300576: schaf_schwarz_288
+    21300578: schaf_schwarz_289
+    21300580: schaf_schwarz_290
+    21300582: schaf_schwarz_291
+    21300584: schaf_schwarz_292
+    21300586: schaf_schwarz_293
+    21300588: schaf_schwarz_294
+    21300590: schaf_schwarz_295
+    21300592: schaf_schwarz_296
+    21300594: schaf_schwarz_297
+    21300596: schaf_schwarz_298
+    21300598: schaf_schwarz_299
+    21300600: schaf_schwarz_300
+    21300602: schaf_schwarz_301
+    21300604: schaf_schwarz_302
+    21300606: schaf_schwarz_303
+    21300608: schaf_schwarz_304
+    21300610: schaf_schwarz_305
+    21300612: schaf_schwarz_306
+    21300614: schaf_schwarz_307
+    21300616: schaf_schwarz_308
+    21300618: schaf_schwarz_309
+    21300620: schaf_schwarz_310
+    21300622: schaf_schwarz_311
+    21300624: schaf_schwarz_312
+    21300626: schaf_schwarz_313
+    21300628: schaf_schwarz_314
+    21300630: schaf_schwarz_315
+    21300632: schaf_schwarz_316
+    21300634: schaf_schwarz_317
+    21300636: schaf_schwarz_318
+    21300638: schaf_schwarz_319
+    21300640: schaf_schwarz_320
+    21300642: schaf_schwarz_321
+    21300644: schaf_schwarz_322
+    21300646: schaf_schwarz_323
+    21300648: schaf_schwarz_324
+    21300650: schaf_schwarz_325
+    21300652: schaf_schwarz_326
+    21300654: schaf_schwarz_327
+    21300656: schaf_schwarz_328
+    21300658: schaf_schwarz_329
+    21300660: schaf_schwarz_330
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -38,7 +369,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -65,9 +396,4683 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: schaf_schwarz_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_12
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_13
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3995
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_14
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3995
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_20
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_24
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_25
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_26
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_27
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_28
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3897
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_29
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3897
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3797
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3797
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3797
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3797
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3797
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3797
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3797
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_37
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3797
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_38
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3797
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_39
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3599
+        width: 124
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_40
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3711
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_41
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3711
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_42
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3797
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_43
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3797
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_44
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3797
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3699
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3613
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3613
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3699
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3599
+        width: 112
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3599
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3599
+        width: 112
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_52
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3599
+        width: 110
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_53
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3599
+        width: 108
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_54
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3599
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_55
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3599
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_56
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3599
+        width: 116
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_57
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3599
+        width: 110
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_58
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3599
+        width: 108
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3501
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3501
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3599
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_62
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3599
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_65
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_66
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_67
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_68
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_69
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_70
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_71
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_72
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_73
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_74
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3501
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_75
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3501
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3401
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3401
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3401
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3401
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_80
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3401
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_81
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3401
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_82
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3401
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_83
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3401
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_84
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 3401
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_85
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3401
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_86
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3401
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_87
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3401
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_88
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3401
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_89
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3401
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_90
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3401
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3203
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3203
+        width: 114
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_93
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3203
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_95
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_96
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_97
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_98
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_99
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_100
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_101
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3203
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_102
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3303
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_103
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3303
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_104
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3303
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_105
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 3303
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_106
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3203
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_107
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3203
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_108
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3203
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_109
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3203
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3105
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_111
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3105
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_112
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3105
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_113
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3105
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_114
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3105
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_115
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3105
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_116
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3105
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_117
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3105
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_118
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3105
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_119
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3105
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_120
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3105
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_121
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3105
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_122
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 3105
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_123
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3105
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_124
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 3105
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_125
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3005
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_126
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3005
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_127
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3005
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_128
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3005
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3005
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3005
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_131
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3005
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_132
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3005
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_133
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 3005
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_134
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 3005
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_135
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 3005
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_136
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3005
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_137
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 3005
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_138
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 3005
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_139
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 3005
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2907
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_141
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2907
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2907
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_143
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2907
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_144
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2907
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2907
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_146
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2907
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_147
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2907
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_148
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2907
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_149
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2907
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_150
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2907
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_151
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2907
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_152
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2907
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_153
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2907
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_154
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2907
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_155
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_157
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_158
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_159
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_160
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_161
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_162
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_163
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_164
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_165
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_166
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_167
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_168
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2807
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_169
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2807
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_170
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_171
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_172
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_173
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_175
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_176
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_177
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_178
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_179
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_180
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_181
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_182
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_183
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2709
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_184
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2709
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_185
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2609
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_186
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2609
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_187
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2609
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_188
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2609
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_189
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2609
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_190
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2609
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_191
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2609
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_192
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2609
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_193
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2609
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_194
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2609
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_195
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2609
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_196
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2609
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_197
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2609
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_198
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2609
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_199
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2609
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_200
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2511
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_201
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_202
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2511
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_203
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_204
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2511
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_205
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_206
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2511
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_207
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_208
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2509
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_209
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2511
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_210
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2511
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_211
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2511
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_212
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2511
+        width: 115
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_213
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2511
+        width: 116
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_214
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2509
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_215
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2411
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_216
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2411
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_217
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2411
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_218
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2411
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_219
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2411
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_220
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2411
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_221
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2411
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_222
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2411
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_223
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2411
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_224
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2411
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_225
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2411
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_226
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2411
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_227
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2411
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_228
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2411
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_229
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2411
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_230
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2313
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_231
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2313
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_232
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2313
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_233
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_234
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_235
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_236
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_237
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_238
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_239
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_240
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_241
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_242
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_243
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2313
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_244
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2313
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_245
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2213
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_246
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2213
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_247
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2213
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_248
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2213
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_249
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2213
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_250
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2213
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_251
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2213
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_252
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2213
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_253
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2213
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_254
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2213
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_255
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2213
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_256
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2213
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_257
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2213
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_258
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2213
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_259
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2213
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_260
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2115
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_261
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2115
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_262
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2015
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_263
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2015
+        width: 115
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_264
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2015
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_265
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_266
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_267
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_268
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_269
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_270
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2015
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_271
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2114
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_272
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2113
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_273
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2114
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_274
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2113
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_275
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2015
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_276
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2015
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_277
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2015
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_278
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2015
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_279
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2015
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_280
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2015
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_281
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1915
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_282
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1916
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_283
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1915
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_284
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1916
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_285
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1915
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_286
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1916
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_287
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1915
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_288
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1916
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_289
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1915
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_290
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1916
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_291
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1915
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_292
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1916
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_293
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1915
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_294
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1916
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_295
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1915
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_296
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1817
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_297
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1817
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_298
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1817
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_299
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1817
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_300
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1817
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_301
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1817
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_302
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1817
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_303
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1817
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_304
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1817
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_305
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1817
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_306
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1817
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_307
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1817
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_308
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1817
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_309
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1817
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_310
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1817
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_311
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1719
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_312
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1719
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_313
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1719
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_314
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1719
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_315
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1719
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_316
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1719
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_317
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1719
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_318
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1719
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_319
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1719
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_320
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1719
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_321
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1719
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_322
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1719
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_323
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1719
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_324
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1719
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_325
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1719
+        width: 110
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_326
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1619
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_327
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1619
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_328
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1619
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_329
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1619
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schaf_schwarz_330
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1619
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
